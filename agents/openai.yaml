@@ -1,0 +1,6 @@
+interface:
+  display_name: "Cell_CNS_Figure · Codex 原生"
+  short_description: "直接用 Codex 内置图像工具与本地 Python 制作期刊科研图"
+  default_prompt: "使用 $cell-cns-figure，将我的研究内容或数据制作成 Cell/Nature/Science 风格的科研图，直接使用 Codex 内置工具或本地绘图。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,23 @@
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+xiaomiao_api.txt
+
+# Python and local generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.sqlite
+*.sqlite3
+work/
+outputs/
+results/
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
